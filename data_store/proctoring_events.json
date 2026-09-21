@@ -1,0 +1,142 @@
+[
+  {
+    "attempt_id": "fceb7cd6-7ad0-4dd4-9bfd-9169ab90c4ed",
+    "student_id": "372eb304-9001-463f-a6bb-cc2d3df39edf",
+    "exam_id": "52650f8b-e99b-49f4-a05c-9800e5bf9ef3",
+    "event_type": "SUSPICIOUS_HEAD_MOVEMENT",
+    "timestamp": "2026-09-20T13:29:25.087624",
+    "confidence": 0.92,
+    "suspicion_points": 10,
+    "evidence_image": "/evidence/372eb304-9001-463f-a6bb-cc2d3df39edf_52650f8b-e99b-49f4-a05c-9800e5bf9ef3_SUSPICIOUS_HEAD_MOVEMENT_20260920_132925_123d67.jpg",
+    "metadata": {
+      "direction": "LOOKING_RIGHT",
+      "yaw": -22.5,
+      "pitch": 9.9
+    },
+    "is_demo": false,
+    "status": "REVIEW",
+    "_id": "74207237-8e64-40d8-befd-3ece19a39703",
+    "created_at": "2026-09-20T13:29:25.089675"
+  },
+  {
+    "attempt_id": "fceb7cd6-7ad0-4dd4-9bfd-9169ab90c4ed",
+    "student_id": "372eb304-9001-463f-a6bb-cc2d3df39edf",
+    "exam_id": "52650f8b-e99b-49f4-a05c-9800e5bf9ef3",
+    "event_type": "SUSPICIOUS_HEAD_MOVEMENT",
+    "timestamp": "2026-09-20T13:29:29.080271",
+    "confidence": 0.92,
+    "suspicion_points": 10,
+    "evidence_image": "/evidence/372eb304-9001-463f-a6bb-cc2d3df39edf_52650f8b-e99b-49f4-a05c-9800e5bf9ef3_SUSPICIOUS_HEAD_MOVEMENT_20260920_132929_5fb1fb.jpg",
+    "metadata": {
+      "direction": "FORWARD",
+      "yaw": -18.5,
+      "pitch": 5.6
+    },
+    "is_demo": false,
+    "status": "REVIEW",
+    "_id": "3e615f8f-601f-424f-8ea5-c18467c26452",
+    "created_at": "2026-09-20T13:29:29.080271"
+  },
+  {
+    "attempt_id": "8dea56d5-cc2a-460f-bce7-5c828a8f0af2",
+    "student_id": "372eb304-9001-463f-a6bb-cc2d3df39edf",
+    "exam_id": "467712dd-3886-4129-949c-a7d0732e3830",
+    "event_type": "TAB_SWITCH_DETECTED",
+    "timestamp": "2026-09-21T14:35:42.408352",
+    "confidence": 1.0,
+    "suspicion_points": 15,
+    "evidence_image": "/evidence/demo_placeholder.jpg",
+    "metadata": {
+      "note": "Candidate navigated away from examination tab"
+    },
+    "is_demo": false,
+    "status": "REVIEW",
+    "_id": "96336c2a-7e6b-4e5e-8e4b-f2f723aa8e40",
+    "created_at": "2026-09-21T14:35:42.408352"
+  },
+  {
+    "attempt_id": "b95a0b43-1ea0-417b-9254-976142ac694e",
+    "student_id": "372eb304-9001-463f-a6bb-cc2d3df39edf",
+    "exam_id": "3396d352-5966-4a69-bbbe-868901cba4be",
+    "event_type": "TAB_SWITCH_DETECTED",
+    "timestamp": "2026-09-21T14:35:58.812001",
+    "confidence": 1.0,
+    "suspicion_points": 15,
+    "evidence_image": "/evidence/demo_placeholder.jpg",
+    "metadata": {
+      "note": "Candidate navigated away from examination tab"
+    },
+    "is_demo": false,
+    "status": "REVIEW",
+    "_id": "81045b63-88d1-474a-b605-c0c2af1394c7",
+    "created_at": "2026-09-21T14:35:58.812001"
+  },
+  {
+    "attempt_id": "b95a0b43-1ea0-417b-9254-976142ac694e",
+    "student_id": "372eb304-9001-463f-a6bb-cc2d3df39edf",
+    "exam_id": "3396d352-5966-4a69-bbbe-868901cba4be",
+    "event_type": "TAB_SWITCH_DETECTED",
+    "timestamp": "2026-09-21T14:37:35.043947",
+    "confidence": 1.0,
+    "suspicion_points": 15,
+    "evidence_image": "/evidence/demo_placeholder.jpg",
+    "metadata": {
+      "note": "Candidate navigated away from examination tab"
+    },
+    "is_demo": false,
+    "status": "REVIEW",
+    "_id": "e38cf5ed-06dc-484b-914b-51f36a683811",
+    "created_at": "2026-09-21T14:37:35.043947"
+  },
+  {
+    "attempt_id": "8dea56d5-cc2a-460f-bce7-5c828a8f0af2",
+    "student_id": "372eb304-9001-463f-a6bb-cc2d3df39edf",
+    "exam_id": "467712dd-3886-4129-949c-a7d0732e3830",
+    "event_type": "TAB_SWITCH_DETECTED",
+    "timestamp": "2026-09-21T14:38:03.370862",
+    "confidence": 1.0,
+    "suspicion_points": 15,
+    "evidence_image": "/evidence/demo_placeholder.jpg",
+    "metadata": {
+      "note": "Candidate navigated away from examination tab"
+    },
+    "is_demo": false,
+    "status": "REVIEW",
+    "_id": "990f5976-72f7-4cb7-a8bf-e47556473aab",
+    "created_at": "2026-09-21T14:38:03.370862"
+  },
+  {
+    "attempt_id": "8dea56d5-cc2a-460f-bce7-5c828a8f0af2",
+    "student_id": "372eb304-9001-463f-a6bb-cc2d3df39edf",
+    "exam_id": "467712dd-3886-4129-949c-a7d0732e3830",
+    "event_type": "TAB_SWITCH_DETECTED",
+    "timestamp": "2026-09-21T14:38:13.918751",
+    "confidence": 1.0,
+    "suspicion_points": 15,
+    "evidence_image": "/evidence/demo_placeholder.jpg",
+    "metadata": {
+      "note": "Candidate navigated away from examination tab"
+    },
+    "is_demo": false,
+    "status": "REVIEW",
+    "_id": "2999786b-b293-49af-8139-f737f568b364",
+    "created_at": "2026-09-21T14:38:13.918751"
+  },
+  {
+    "attempt_id": "f8105291-3bfd-42cd-8113-a8d7723913b6",
+    "student_id": "372eb304-9001-463f-a6bb-cc2d3df39edf",
+    "exam_id": "cf1d0c9d-217a-464c-9394-a2112dc8803a",
+    "event_type": "TAB_SWITCH_DETECTED",
+    "timestamp": "2026-09-21T14:41:45.073419",
+    "confidence": 1.0,
+    "suspicion_points": 15,
+    "evidence_image": "/evidence/demo_placeholder.jpg",
+    "metadata": {
+      "note": "Candidate navigated away from examination tab"
+    },
+    "is_demo": false,
+    "status": "REVIEW",
+    "_id": "83ce4722-938e-4d19-adc1-4feddd323a0f",
+    "created_at": "2026-09-21T14:41:45.073419"
+  }
+]
